@@ -5,7 +5,7 @@ const path = require('path');
 const dev = process.env.NODE_ENV !== 'production';
 const pagesBuild = process.env.PAGES_BUILD;
 
-const GHPAGES_URL = "https://pages.github.com/sbutler2901/wasm-game-of-life/www/build/";
+const GHPAGES_URL = "https://sbutler2901.github.io/wasm-game-of-life/www/build/";
 const DEV_URL = "http://localhost:8080/";
 
 dev ? console.log("Running dev build") : console.log("Running production build");
