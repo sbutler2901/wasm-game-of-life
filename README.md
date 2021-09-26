@@ -5,7 +5,7 @@ An implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conwa
 The game is implemented in Rust which is compiled to web assembly. There are two rendering implementations, one using the 
 [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) and the other using WebGL and [ThreeJS](https://threejs.org/)
 
-[See it running](https://pages.github.com/sbutler2901/wasm-game-of-life/)
+[See it running](https://sbutler2901.github.io/wasm-game-of-life/)
 
 ## Usage
 
