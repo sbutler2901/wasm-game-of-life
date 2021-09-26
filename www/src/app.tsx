@@ -7,6 +7,7 @@ import './app.scss';
 
 //** Components
 
+// NOTE: Change animation component here
 const App = () => {
     return (
         <React.Fragment>

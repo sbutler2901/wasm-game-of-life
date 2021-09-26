@@ -5,7 +5,7 @@ import "three";
 // @ts-ignore
 import * as THREE from "three";
 
-import { memory } from "wasm-game-of-life/wasm_game_of_life_bg";
+import { memory } from "wasm-game-of-life/wasm_game_of_life_bg.wasm";
 import { Cell } from "wasm-game-of-life";
 import { FPS } from "./FPS";
 import { StateBtns } from "./StateBtns";

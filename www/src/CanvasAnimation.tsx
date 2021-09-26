@@ -1,4 +1,4 @@
-import { memory } from "wasm-game-of-life/wasm_game_of_life_bg";
+import { memory } from "wasm-game-of-life/wasm_game_of_life_bg.wasm";
 import { Cell } from "wasm-game-of-life";
 import React, { MouseEvent, useEffect, useRef, useState } from "react";
 import { FPS } from "./FPS";
