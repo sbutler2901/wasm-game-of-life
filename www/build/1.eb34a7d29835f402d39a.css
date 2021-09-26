@@ -1,0 +1,8 @@
+#fps{width:200px}
+
+.animation-container{display:flex;margin:0 auto;align-items:center;width:fit-content}.animation-container #state-btns{width:175px}.animation-container #state-btns button{width:33%}.animation-container .canvas-container{border:2px solid black;margin-top:20px}
+
+body{width:100%;height:100%;margin:0}#root{width:100%;height:100%;display:flex;flex-direction:column;justify-content:space-evenly}#root .page-title{text-align:center}
+
+
+/*# sourceMappingURL=1.eb34a7d29835f402d39a.css.map*/
