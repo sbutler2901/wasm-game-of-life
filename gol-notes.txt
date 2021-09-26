@@ -1,0 +1,34 @@
+// Fixes:
+
+// Features:
+
+- game loop style tick before redrawing
+- canvas rendering implemented in WASM
+- webgl rendering implemented in WASM
+- Moving universe ticking off main UI thread
+- calculate future ticks if cpu idle
+- render on a sphere / cube
+
+
+//// https://bitstorm.org/gameoflife/
+- expand view slider like at
+- change game loop speed
+- manual step button
+
+// Links
+
+// Chrome
+https://medium.com/@marielgrace/how-to-analyze-runtime-performance-google-devtools-99fda64c09cb
+https://developers.google.com/web/fundamentals/performance/rail
+https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference
+
+// FF
+https://rustwasm.github.io/docs/book/game-of-life/time-profiling.html
+https://crates.io/categories/rust-patterns
+https://play.rust-lang.org/
+https://dewitters.com/dewitters-gameloop/
+https://threejs.org/docs/index.html#api/en/math/Color
+https://gamedev.stackexchange.com/questions/68097/reduce-render-time-for-a-tiled-map-in-threejs
+https://stackoverflow.com/questions/19152772/how-to-pass-large-data-to-web-workers
+https://rustwasm.github.io/docs/wasm-bindgen/examples/julia.html
+https://gamedev.stackexchange.com/questions/2116/what-are-the-best-resources-on-multi-threaded-game-or-game-engine-design-and-dev

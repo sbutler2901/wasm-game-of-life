@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2019",
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "types": ["express"],
+    "outDir": "./lib/"
+  },
+  "files": [
+    "./server.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

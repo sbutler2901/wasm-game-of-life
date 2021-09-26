@@ -1,0 +1,18 @@
+.animation-container {
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  width: fit-content;
+
+  #state-btns {
+    width: 175px;
+    button {
+      width: 33%;
+    }
+  }
+
+  .canvas-container {
+    border: 2px solid black;
+    margin-top: 20px;
+  }
+}
